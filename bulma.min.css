@@ -17,7 +17,7 @@ h3, h4 {
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a  {
     font-size: 30px !important;
-    color:black;
+    color:black !important;
     background-color:yellow;
     padding:2px;
 }
