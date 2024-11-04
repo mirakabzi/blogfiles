@@ -5,20 +5,20 @@
 /* mycodes */
 h1, h2 {
     font-size: 34px !important;
-    color:blue;
-    background-color:white;
-    padding:2px;
+    color:blue !important;
+    background-color:white !important;
+    padding:2px !important;
 }
 h3, h4 {
     font-size : 20px !important;
-    color: blue;
-    background-color: white;
-    padding: 2px;
+    color: blue !important;
+    background-color: white !important;
+    padding: 2px !important;
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a  {
     font-size: 30px !important;
     color:black !important;
-    background-color:yellow;
-    padding:2px;
+    background-color:yellow !important;
+    padding:2px !important;
 }
 /* end mycodes */
